@@ -1,0 +1,455 @@
+[
+  {
+    "id": 1,
+    "category": "Chairs",
+    "name": "Chiavari Chair \u2013 Gold",
+    "quantity": "Large inventory",
+    "price": "Varies",
+    "images": [
+      "assets/images/image104.png",
+      "assets/images/image107.png"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Chairs",
+    "name": "Chiavari Chair \u2013 Clear",
+    "quantity": "Large inventory",
+    "price": "Varies",
+    "images": [
+      "assets/images/image109.png",
+      "assets/images/image110.png"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Chairs",
+    "name": "Chiavari Chair \u2013 Silver",
+    "quantity": "Large inventory",
+    "price": "Varies",
+    "images": [
+      "assets/images/image111.png",
+      "assets/images/image126.png"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Chairs",
+    "name": "Chiavari Chair \u2013 Black",
+    "quantity": "Large inventory",
+    "price": "Varies",
+    "images": [
+      "assets/images/image129.png",
+      "assets/images/image13.png"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Chairs",
+    "name": "Chiavari Chair \u2013 Mahogany",
+    "quantity": "Large inventory",
+    "price": "Varies",
+    "images": [
+      "assets/images/image131.png",
+      "assets/images/image141.png"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Sofas",
+    "name": "Harlem Blue Velvet Accent Chairs",
+    "quantity": "2",
+    "price": "$150/set",
+    "images": [
+      "assets/images/image142.png",
+      "assets/images/image145.png"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Sofas",
+    "name": "Harlem Blue Velvet Curved Sofa",
+    "quantity": "3",
+    "price": "$350",
+    "images": [
+      "assets/images/image151.png",
+      "assets/images/image157.png"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Sofas",
+    "name": "Harlem Curvy Sofa",
+    "quantity": "3",
+    "price": "$375",
+    "images": [
+      "assets/images/image166.png",
+      "assets/images/image167.png"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Sofas",
+    "name": "The Apollo Sofa",
+    "quantity": "1",
+    "price": "$350",
+    "images": [
+      "assets/images/image169.png",
+      "assets/images/image170.png"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Sofas",
+    "name": "The Manhattan Sofa",
+    "quantity": "2",
+    "price": "$350",
+    "images": [
+      "assets/images/image171.png",
+      "assets/images/image2.png"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Sofas",
+    "name": "The Manhattan Loveseat",
+    "quantity": "2",
+    "price": "$250",
+    "images": [
+      "assets/images/image21.png",
+      "assets/images/image23.png"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Sofas",
+    "name": "Curved Emerald Green Channel Loveseat",
+    "quantity": "3",
+    "price": "$250",
+    "images": [
+      "assets/images/image25.png",
+      "assets/images/image26.png"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Chairs",
+    "name": "Emerald Green Channel Side Chairs",
+    "quantity": "3",
+    "price": "$100/set",
+    "images": [
+      "assets/images/image29.png",
+      "assets/images/image31.png"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Loveseats",
+    "name": "Mid-Century Modern Loveseat",
+    "quantity": "1",
+    "price": "$200",
+    "images": [
+      "assets/images/image32.png",
+      "assets/images/image33.png"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Loveseats",
+    "name": "Ivory Velvet Gold Tufted Loveseat",
+    "quantity": "1",
+    "price": "$200",
+    "images": [
+      "assets/images/image35.png",
+      "assets/images/image36.png"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Loveseats",
+    "name": "Pink Lady Channel Loveseat",
+    "quantity": "2",
+    "price": "$200",
+    "images": [
+      "assets/images/image37.png",
+      "assets/images/image39.png"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Benches",
+    "name": "Pink Lady Channel Bench",
+    "quantity": "2",
+    "price": "$75",
+    "images": [
+      "assets/images/image4.png",
+      "assets/images/image40.png"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Sofas",
+    "name": "Uptown Chesterfield Sofa",
+    "quantity": "2",
+    "price": "$350",
+    "images": [
+      "assets/images/image41.png",
+      "assets/images/image43.png"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Chairs",
+    "name": "Uptown Chesterfield Chair",
+    "quantity": "1",
+    "price": "$75",
+    "images": [
+      "assets/images/image45.png",
+      "assets/images/image46.png"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Sofas",
+    "name": "Buckhead Brown Leather Chesterfield Sofa",
+    "quantity": "1",
+    "price": "$350",
+    "images": [
+      "assets/images/image47.png",
+      "assets/images/image48.png"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Sets",
+    "name": "Remy Maroon Swivel 4-Piece Conversation Set",
+    "quantity": "1",
+    "price": "$800",
+    "images": [
+      "assets/images/image5.png",
+      "assets/images/image57.png"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Chairs",
+    "name": "Remy Maroon Velvet Swivel Chairs",
+    "quantity": "4",
+    "price": "$100",
+    "images": [
+      "assets/images/image59.png",
+      "assets/images/image6.png"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Chairs",
+    "name": "Mintons Blue Velvet Swivel Accent Chair",
+    "quantity": "2",
+    "price": "$200",
+    "images": [
+      "assets/images/image64.png",
+      "assets/images/image69.png"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Chairs",
+    "name": "Black Velvet Chanel Accent Chairs",
+    "quantity": "1",
+    "price": "$150/set",
+    "images": [
+      "assets/images/image70.png",
+      "assets/images/image71.png"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Chairs",
+    "name": "Yellow Velvet Chanel Accent Chairs",
+    "quantity": "1",
+    "price": "$100/set",
+    "images": [
+      "assets/images/image73.png",
+      "assets/images/image74.png"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Chairs",
+    "name": "Oahu Contemporary Chair",
+    "quantity": "4",
+    "price": "$100/set",
+    "images": [
+      "assets/images/image75.png",
+      "assets/images/image76.png"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Chairs",
+    "name": "Meridian Black Velvet Contemporary Chair",
+    "quantity": "1",
+    "price": "$100/set",
+    "images": [
+      "assets/images/image79.png",
+      "assets/images/image85.png"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Couple\u2019s Chairs",
+    "name": "Gold/Silver Modern Sweetheart Chairs",
+    "quantity": "1",
+    "price": "$150/set",
+    "images": [
+      "assets/images/image88.png",
+      "assets/images/image89.png"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Couple\u2019s Chairs",
+    "name": "Black & Chrome Modern Sweetheart Chairs",
+    "quantity": "1",
+    "price": "$100/set",
+    "images": [
+      "assets/images/image90.png",
+      "assets/images/image91.png"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Accent Pieces",
+    "name": "Square Industrial Coffee Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": [
+      "assets/images/image92.png",
+      "assets/images/image93.png"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Accent Pieces",
+    "name": "Glass Coffee Table",
+    "quantity": "nan",
+    "price": "nan",
+    "images": [
+      "assets/images/image94.png",
+      "assets/images/image95.png"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Accent Pieces",
+    "name": "West Elm Marble Coffee Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 33,
+    "category": "Accent Pieces",
+    "name": "Mid Century Modern Coffee Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 34,
+    "category": "Accent Pieces",
+    "name": "Glass Top Accent Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 35,
+    "category": "Accent Pieces",
+    "name": "Wood & Pipe Industrial Consoles",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 36,
+    "category": "Accent Pieces",
+    "name": "2-Piece Gold Accent Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 37,
+    "category": "Accent Pieces",
+    "name": "Gold Accent Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 38,
+    "category": "Accent Pieces",
+    "name": "Silver Accent Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 39,
+    "category": "Accent Pieces",
+    "name": "Gold Shelving Units with Glass",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 40,
+    "category": "Accent Pieces",
+    "name": "Chrome Floor Lamps",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 41,
+    "category": "Accent Pieces",
+    "name": "7.5 FT Ficus Trees",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 42,
+    "category": "Accent Pieces",
+    "name": "Bistro Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 43,
+    "category": "Accent Pieces",
+    "name": "Highboy Tables",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 44,
+    "category": "Accent Pieces",
+    "name": "Assorted Pillows",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  },
+  {
+    "id": 45,
+    "category": "Faux Florals",
+    "name": "Floral Centerpieces, Runners, Aisle Flowers, Altar Backdrops & More",
+    "quantity": "nan",
+    "price": "nan",
+    "images": []
+  }
+]
